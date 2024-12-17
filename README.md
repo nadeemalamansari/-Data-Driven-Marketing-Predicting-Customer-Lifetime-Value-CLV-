@@ -10,7 +10,7 @@ This repo contains code and resources for predicting the Customer Lifetime Value
 
 To utilize this Customer Lifetime Value Prediction project, follow these steps:
 
-* Clone the Repository: Begin by cloning this repository to your local machine using the following command: 
+* Clone the Repository: Begin by cloning this repository to your local machine using the following command:https://github.com/nadeemalamansari/-Data-Driven-Marketing-Predicting-Customer-Lifetime-Value-CLV-.git  
 
 * Install Dependencies: Navigate to the project directory and install the required dependencies using the requirements.txt file: `pip install -r requirements.txt`
 
@@ -18,5 +18,5 @@ To utilize this Customer Lifetime Value Prediction project, follow these steps:
 
 * Model Training and Evaluation: Continue with the `main.ipynb` Notebook to train the XGBoost model and evaluate its performance using cross-validation techniques.
 
-* Visualization using Streamlit: To use the Streamlit app for CLV prediction visualization, execute the following command in your terminal: `streamlit run visualization.py`. Access the app through your web browser by visiting , where you can visualize the model prediction results.
+* Visualization using Streamlit: To use the Streamlit app for CLV prediction visualization, execute the following command in your terminal: `streamlit run visualization.py`. Access the app through your web browser by visitingn http://localhost:8501 , where you can visualize the model prediction results.
 
